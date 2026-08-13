@@ -347,7 +347,7 @@ ai:
 
   model: "openai/nvidia/nemotron-3-ultra-550b-a55b:free"
 
-  api_key: ""                       # API Key（建议使用环境变量 AI_API_KEY）
+  api_key: "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"                       # API Key（建议使用环境变量 AI_API_KEY）
   
   api_base: "https://openrouter.ai/api/v1"                      # 自定义 API 地址（可选，绝大多数情况留空即可）
                                     #
